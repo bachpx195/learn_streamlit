@@ -2,12 +2,14 @@
 Awsome language for visualization data.
 
 ### Install streamlit
-
-> pip install streamlit
+```shellscript
+pip install streamlit
+```
 
 ### Run example
-
-> streamlit run app.py
+```shellscript
+streamlit run app.py
+```
 
 https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/
 https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/
